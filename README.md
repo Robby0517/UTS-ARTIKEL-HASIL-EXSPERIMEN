@@ -3,7 +3,7 @@
 Eksperimen Deteksi serta Pencegahan Serangan SQL Injection di Aplikasi Web Memakai Pencocokan Pola
 
 
-3Jurusan Teknik Informaika, UPB, Cikarang
+Jurusan Teknik Informaika, UPB, Cikarang
 e-mail: robbyakuensi@gmail.com
 
 
