@@ -1,6 +1,6 @@
 # UTS-ARTIKEL-HASIL-EXSPERIMEN
 
- [DOC-20250510-WA0003..pdf](https://github.com/user-attachments/files/20133394/DOC-20250510-WA0003.pdf) 
+ PDF ARTIKEL YANG SUDAH DIBUAT : [DOC-20250510-WA0003..pdf](https://github.com/user-attachments/files/20133394/DOC-20250510-WA0003.pdf) 
 
 Eksperimen Deteksi serta Pencegahan Serangan SQL Injection di Aplikasi Web Memakai Pencocokan Pola
 
